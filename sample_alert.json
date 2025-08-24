@@ -1,0 +1,18 @@
+{
+  "secret": "CHANGE_ME",
+  "symbol": "XAUUSD",
+  "side": "SELL",
+  "price": 3301.5,
+  "time": "{{timenow}}",
+  "entry": 3301.5,
+  "sl": 3312.0,
+  "tp1": 3290.0,
+  "tp2": 3275.0,
+  "rr": "1:2",
+  "session": "NY",
+  "fib_trigger": "85 (Break\u2011Reversal)",
+  "bos": "Yes (H1 close)",
+  "fvg": "Mitigated 50%",
+  "ob": "H1 Bearish OB 3330\u20133340",
+  "reason": "Checklist OK (#9). BOS + displacement; OB touch + \u226550% FVG at 85; no red news."
+}
